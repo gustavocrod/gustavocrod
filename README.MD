@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media0.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e4773795b12cc760da7c7c041c0618548cf6c8188db&rid=giphy.gif" >
+  <img src=https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=ecf05e47dc1438917e672024866ebdf3ec7c6df3cd06b14b&rid=giphy.gif" >
 </p>
 
 # Gustavo Rodrigues :man: :eyeglasses:
