@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavocrod/Data-Science/blob/master/data_science.png" >
+  <img src="https://source.unsplash.com/random/800x400" >
 </p>
 
 # Gustavo Rodrigues :man: :eyeglasses:
