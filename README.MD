@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e4711412eb45f1c37d133d36abad80eb8b307729abf&rid=giphy.gif" >
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---1w4VnJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif" >
 </p>
 
 <p align="right">
