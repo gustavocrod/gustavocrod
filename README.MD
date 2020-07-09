@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---1w4VnJR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif" >
+  <img src=https://media0.giphy.com/media/eUdtR10ZsxlFC/giphy.gif?cid=ecf05e4773795b12cc760da7c7c041c0618548cf6c8188db&rid=giphy.gif" >
 </p>
-
-<p align="right">
-  <sub>F5 to see a new image</sub>
-</p>
-
 
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
