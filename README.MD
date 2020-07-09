@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://source.unsplash.com/random/800x400" >
-</p>
+![](https://source.unsplash.com/random/800x400)
 
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
