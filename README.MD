@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://bingimages.herokuapp.com/unsplash2" >
+  <sub>F5 to see a new image</sub>
 </p>
-<sub>F5 to see a new image</sub>
+
 
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
