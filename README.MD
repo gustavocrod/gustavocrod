@@ -2,7 +2,7 @@
   <img src="https://github.com/gustavocrod/Data-Science/blob/master/data_science.png" >
 </p>
 
-# :man: :eyeglasses: Gustavo Rodrigues
+# Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
 
 Hey people (or :robot:) :wave:;
@@ -18,7 +18,7 @@ Hey people (or :robot:) :wave:;
 :speech_balloon: Contact: [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-959291110/);
 
 
-## :file_folder: Projects:
+## Projects :file_folder::
 The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :trollface:
 
 * **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
