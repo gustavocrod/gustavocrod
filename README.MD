@@ -18,9 +18,6 @@ Hey people (or :robot:) :wave:;
 
 :heavy_check_mark: Feel free to follow-me to see my projects in Data Science and some tutorials with memes (in coming);
 
-:speech_balloon: Contact: [LinkedIn](https://www.linkedin.com/in/gustavo-rodrigues-959291110/);
-
-
 ## Projects :file_folder::
 The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :trollface:
 
