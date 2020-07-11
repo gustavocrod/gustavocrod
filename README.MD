@@ -5,6 +5,9 @@
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
 
+[![Twitter Badge](https://img.shields.io/badge/-@gustavocrod-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavocrod)](https://twitter.com/gustavocrod) [![Linkedin Badge](https://img.shields.io/badge/-gustavorodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-959291110/)](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
+[![Gmail Badge](https://img.shields.io/badge/-gustavocrod.unipampa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrod.unipampa@gmail.com)](mailto:gustavocrod.unipampa@gmail.com)
+
 Hey people (or :robot:) :wave:;
 
 :chart_with_upwards_trend: I’m currently working on Data Science projects;
