@@ -5,8 +5,6 @@
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
 
-![cr0d github stats](https://github-readme-stats.vercel.app/api?username=gustavocrod&show_icons=true&theme=synthwave)
-
 [![Twitter Badge](https://img.shields.io/badge/-@gustavocrod-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavocrod)](https://twitter.com/gustavocrod) [![Linkedin Badge](https://img.shields.io/badge/-gustavorodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-959291110/)](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavocrod.unipampa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrod.unipampa@gmail.com)](mailto:gustavocrod.unipampa@gmail.com)
 
@@ -21,6 +19,9 @@ Hey people (or :robot:) :wave:;
 :heavy_check_mark: Feel free to follow-me to see my projects in Data Science and some tutorials with memes (in coming);
 
 ## Projects :file_folder::
+
+![cr0d github stats](https://github-readme-stats.vercel.app/api?username=gustavocrod&show_icons=true&theme=synthwave)
+
 The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :trollface:
 
 * **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
