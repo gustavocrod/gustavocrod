@@ -12,7 +12,7 @@ Hey people (or :robot:) :wave:;
 
 :chart_with_upwards_trend: I’m currently working on Data Science projects;
 
-:seedling: I’m currently learning about Back-end Development (Django), Game Development (Unity)... and Data Science (Python :heart:) as well;
+:seedling: I’m learning about Back-end Development (Django), Game Development (Unity)... and Data Science (Python :heart:) as well;
 
 :fire: Topics of interest: Cyber Security, Big Data, Game Development and Artificial Intelligence;
 
