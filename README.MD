@@ -24,10 +24,24 @@ Hey people (or :robot:) :wave:;
 
 The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :trollface:
 
-* **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)**
+**[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)** :ship:
 
-* **[As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?](https://github.com/gustavocrod/Data-Science/blob/master/Housing%20Price/assignment4.ipynb)**
+- Exploração do 'Hello World' de Data Science:
+  - Visualização de correlações entre: 
+    * Sexo e probabilidade de viver;
+    * Idade e probabilidade de viver;
+    * Local de embarque e probabilidade de viver;
+  - Modelo preditivo sobre "teria vivivo ou não ao desastre?".
 
-* **[Recordes Metereológicos de 2005 a 2014 quebrados em 2015 - Região de Ann Arbor, Michigan](https://github.com/gustavocrod/Data-Science/blob/master/Meteorology/Assignment2.ipynb)**
+**[As cidades universitárias (EUA) têm seus os preços médios de residências menos afetados durante recessões?](https://github.com/gustavocrod/Data-Science/blob/master/Housing%20Price/assignment4.ipynb)** :house: :dollar:
+
+- Análise sobre os preços das residências dos EUA;
+- Compração dos preços das residências em cidades normais vs preços das residências em cidades universitárias;
+- Validação da hipotese sobre as cidades universitárias terem os preços menos afetados utilizando um Teste T de Student.
+
+**[Recordes Metereológicos de 2005 a 2014 quebrados em 2015 - Região de Ann Arbor, Michigan](https://github.com/gustavocrod/Data-Science/blob/master/Meteorology/Assignment2.ipynb)** :sunny: :thermometer: :snowflake:
+
+- Análise temporal sobre as temperaturas e recordes de temperatura no período de 2005 a 2014 em Ann Arbor, Michigan.
+- Visualização dos recordes metereológicos deste período, que foram quebrados no ano de 2015, também nessa região.
 
 ---
