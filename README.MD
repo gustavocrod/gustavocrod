@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=ecf05e47dc1438917e672024866ebdf3ec7c6df3cd06b14b&rid=giphy.gif" >
+  <img src=https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" >
 </p>
 
 # Gustavo Rodrigues :man: :eyeglasses:
