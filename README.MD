@@ -62,4 +62,14 @@ The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :troll
 - Análise exploratória com PyData Stack
 - Implementação de um modelo de Machine Learning (LinearRegression) com o sklearn
 
+
+**[Data Scraping and Data viz - What's the Biggest Soccer Club of Rio Grande do Sul/Brazil - According to the Number of Championships Won (From birth to 2019)](https://github.com/gustavocrod/Data-Science/blob/master/Maior%20do%20Sul/biggest_team.ipynb)** :red_circle::white_circle: VS :large_blue_circle::black_circle:
+
+- Extração de dados da Wikipedia
+- Análise exploratória com PyData Stack
+- Visualização dos títulos expressivos ganhos no Sul, Brasil e América
+  - Títulos totais e contatem por título
+  - Utilização do Seaborn
+- INTER É O MAIOR DO SUL PAI. É US GURI
+
 ---
