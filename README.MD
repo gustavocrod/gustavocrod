@@ -3,28 +3,29 @@
 </p>
 
 # Gustavo Rodrigues :man: :eyeglasses:
-<sub>*Computer Science Student* at Universidade Federal do Pampa :brazil:</sub>
+<sub>Sou bacharelando em Ciência da Computação pela Universidade Federal do Pampa (UNIPAMPA). Fui colaborador do projeto PredictCovid: um sistema de apoio à triagem de pacientes suspeitos de COVID-19 utilizando Inteligência Artificial. </sub>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-gustavorodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-959291110/)](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavocrod.unipampa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrod.unipampa@gmail.com)](mailto:gustavocrod.unipampa@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-gustavocrod.unipampa-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@gustavocrod.unipampa)](https://medium.com/@gustavocrod.unipampa)
 
 
-Hey people (or :robot:) :wave:;
+Olá pessoa (ou :robot:) :wave:;
 
-:chart_with_upwards_trend: I’m currently working on a secret Data Science project about Sars-CoV-2;
+:chart_with_upwards_trend: Atualmente estou trabalhando em um projeto de Ciência de dados sobre COVID-19. O objtivo é prever a chance de óbito de pacientes com COVID-19 no município do Rio Grande do Sul (Brasil). [Clique aqui para ver!](https://github.com/gustavocrod/predict_death_covid).
 
-:seedling: I’m learning about Back-end Development (Django), Game Development (Unity)... and Data Science (Python :heart:) as well;
+:seedling: Estou aprendendo sobre desenvolvimento Back-end (Django), Desenvolvimento de jogos (Unity)... e obiamente Ciência de dados (Python :heart:);
 
-:fire: Topics of interest: Artificial Intelligence, Cyber Security, Big Data and Game Development;
+:fire: Tópicos de interesse: Possuo interesse nas áreas de Ciência de Dados e Aprendizagem de Máquina com Python (scikit-learn, numpy, matplotlib, pandas); Desenvolvimento de Jogos Digitais (Unity); e Segurança da Informação.
 
-:heavy_check_mark: Feel free to follow or contact-me to see my projects in Data Science and some tutorials with memes (in coming);
+:heavy_check_mark: Sinta-se a vontade para me seguir para ver alguns projetos de *Data Science* ou para mandar uma mensagem para conversarmos sobre tópicos aleatórios;
 
-## Projects :file_folder::
+## Projetos :file_folder::
 
 ![cr0d github stats](https://github-readme-stats.vercel.app/api?username=gustavocrod&show_icons=true&theme=synthwave)
 
-The repo: Don't click [here](https://github.com/gustavocrod/Data-Science) :trollface:
+O repositório: Não clicke [aqui](https://github.com/gustavocrod/Data-Science) :trollface:
 
 **[Titanic: Machine Leaning from Disaster](https://github.com/gustavocrod/Data-Science/blob/master/Titanic/Titanic.ipynb)** :ship:
 
