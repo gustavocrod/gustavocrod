@@ -1,9 +1,8 @@
-<p align="center">
-  <img src=https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" >
-</p>
 
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub>Sou bacharelando em Ciência da Computação pela Universidade Federal do Pampa (UNIPAMPA). Fui colaborador do projeto PredictCovid: um sistema de apoio à triagem de pacientes suspeitos de COVID-19 utilizando Inteligência Artificial. </sub>
+
+<img align="right" alt="GIF" src="https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-gustavorodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-959291110/)](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
