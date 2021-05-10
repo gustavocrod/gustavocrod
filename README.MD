@@ -6,7 +6,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-gustavorodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-rodrigues-959291110/)](https://www.linkedin.com/in/gustavo-rodrigues-959291110/)
-[![Gmail Badge](https://img.shields.io/badge/-gustavocrod.unipampa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrod.unipampa@gmail.com)](mailto:gustavocrod.unipampa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavocrod.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocrod.work@gmail.com)](mailto:gustavocrod.work@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-gustavocrod.unipampa-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@gustavocrod.unipampa)](https://medium.com/@gustavocrod.unipampa)
 
 
