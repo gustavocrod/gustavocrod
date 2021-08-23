@@ -10,7 +10,7 @@
 
 Olá pessoa (ou :robot:) :wave:;
 
-:chart_with_upwards_trend: Atualmente estou trabalhando em um projeto de Ciência de dados sobre COVID-19. O objtivo é prever a chance de óbito de pacientes com COVID-19 no estado do Rio Grande do Sul (Brasil).
+:chart_with_upwards_trend: Atualmente estou trabalhando em um projeto de Ciência de dados sobre COVID-19. [O objtivo é prever a chance de óbito de pacientes com COVID-19 no estado do Rio Grande do Sul (Brasil)](https://github.com/gustavocrod/predict_death_covid).
 
 :seedling: Estou aprendendo sobre desenvolvimento Back-end (Django), Desenvolvimento de jogos (Unity)... e obiamente Ciência de dados (Python :heart:);
 
