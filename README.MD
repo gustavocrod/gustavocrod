@@ -70,4 +70,11 @@ O repositório: Não clicke [aqui](https://github.com/gustavocrod/Data-Science) 
   - Utilização do Seaborn
 - INTER É O MAIOR DO SUL PAI. É US GURI
 
+
+**[Análise dos dados do Airbnb Boston, Massachusetts](https://github.com/gustavocrod/Data-Science/blob/master/airbrb_analysis/Analisando_os_Dados_do_Airbnb.ipynb)** :airplane: :hotel:
+
+- Análise sobre distribuição dos preços
+- Detecção de outliers 
+- Locais mais caros
+
 ---
