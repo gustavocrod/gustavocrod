@@ -1,6 +1,6 @@
 
 # Gustavo Rodrigues :man: :eyeglasses:
-<sub> Bacharel em Ciência da Computação pela Universidade Federal do Pampa (UNIPAMPA). Fui colaborador do projeto PredictCovid: um sistema de apoio à triagem de pacientes suspeitos de COVID-19 utilizando Inteligência Artificial e atualmente sou Cientista de Dados Pleno na combateafraude.com </sub>
+<sub> Sou um profissional de dados com mais de 4 anos de experiência em projetos de Data Science, Data Engineering e Analytics. Tenho uma sólida expertise em transformação e enriquecimento de dados, inteligência artificial e machine learning. Meu objetivo é resolver problemas complexos e traduzir objetivos de negócios em iniciativas de dados impactantes. Com excelentes habilidades interpessoais, de comunicação e adaptabilidade, estou preparado para contribuir significativamente em equipes de dados dinâmicas. </sub>
 
 <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" />
 
@@ -12,7 +12,7 @@ Olá pessoa (ou :robot:) :wave:;
 
 :chart_with_upwards_trend: Atualmente estou trabalhando em um projeto de Ciência de dados sobre COVID-19. [O objtivo é prever a chance de óbito de pacientes com COVID-19 no estado do Rio Grande do Sul (Brasil)](https://github.com/gustavocrod/predict_death_covid).
 
-:seedling: Estou aprendendo sobre desenvolvimento Back-end (Django), Desenvolvimento de jogos (Unity)... e obiamente Ciência de dados (Python :heart:);
+:seedling: Estou aprendendo sobre desenvolvimento Back-end (Django), Desenvolvimento de jogos (Unity)... e obiamente Analytics (Python :heart:);
 
 :fire: Tópicos de interesse: Possuo interesse nas áreas de Ciência de Dados e Aprendizagem de Máquina com Python (scikit-learn, numpy, matplotlib, pandas); Desenvolvimento de Jogos Digitais (Unity); e Segurança da Informação.
 
