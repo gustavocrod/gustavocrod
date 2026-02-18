@@ -2,7 +2,6 @@
 # Gustavo Rodrigues :man: :eyeglasses:
 <sub> Sou Data Engineer com forte atuação em Analytics Engineering, especializado em estruturar plataformas de dados críticas para o negócio, conectando decisões estratégicas a dados confiáveis e bem modelados.
 Minha principal força está na interface entre negócio e dados. Trabalho próximo a stakeholders para entender profundamente os problemas operacionais, traduzindo necessidades estratégicas em modelagens claras e pipelines robustos que sustentam análises, produto e decisões em larga escala.
-
 Tenho experiência prática na construção e evolução de plataformas modernas de dados, atuando em domínios como marketing, logística e dados financeiros, sempre com foco em governança, rastreabilidade e impacto direto na tomada de decisão. </sub>
 
 <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" />
