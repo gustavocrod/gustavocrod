@@ -1,6 +1,9 @@
 
 # Gustavo Rodrigues :man: :eyeglasses:
-<sub> Sou um profissional de dados com mais de 4 anos de experiência em projetos de Data Science, Data Engineering e Analytics. Tenho uma sólida expertise em transformação e enriquecimento de dados, inteligência artificial e machine learning. Meu objetivo é resolver problemas complexos e traduzir objetivos de negócios em iniciativas de dados impactantes. Com excelentes habilidades interpessoais, de comunicação e adaptabilidade, estou preparado para contribuir significativamente em equipes de dados dinâmicas. </sub>
+<sub> Sou Data Engineer com forte atuação em Analytics Engineering, especializado em estruturar plataformas de dados críticas para o negócio, conectando decisões estratégicas a dados confiáveis e bem modelados.
+Minha principal força está na interface entre negócio e dados. Trabalho próximo a stakeholders para entender profundamente os problemas operacionais, traduzindo necessidades estratégicas em modelagens claras e pipelines robustos que sustentam análises, produto e decisões em larga escala.
+
+Tenho experiência prática na construção e evolução de plataformas modernas de dados, atuando em domínios como marketing, logística e dados financeiros, sempre com foco em governança, rastreabilidade e impacto direto na tomada de decisão. </sub>
 
 <img align="right" alt="GIF" src="https://2.bp.blogspot.com/-ZCnG08W6zSY/W-qgJ-XKRYI/AAAAAAAALdY/pgbhuYEFAVo37cOBZPkX98K0j9bzeO0hACLcBGAs/s400/plot_surface_animation_funcanimation_r.gif" />
 
@@ -10,7 +13,9 @@
 
 Olá pessoa (ou :robot:) :wave:;
 
-:chart_with_upwards_trend: Atualmente estou trabalhando em um projeto de Ciência de dados sobre COVID-19. [O objtivo é prever a chance de óbito de pacientes com COVID-19 no estado do Rio Grande do Sul (Brasil)](https://github.com/gustavocrod/predict_death_covid).
+Atualmente sou Senior Data Engineer no iFood. Trabalho com pySpark, em ambiente Databricks + Airflow + Python, implementando Data Vault 2.0.
+
+:chart_with_upwards_trend: Trabalhei em um projeto de Ciência de dados sobre COVID-19. [O objtivo é prever a chance de óbito de pacientes com COVID-19 no estado do Rio Grande do Sul (Brasil)](https://github.com/gustavocrod/predict_death_covid).
 
 :seedling: Estou aprendendo sobre desenvolvimento Back-end (Django), Desenvolvimento de jogos (Unity)... e obiamente Analytics (Python :heart:);
 
@@ -20,7 +25,7 @@ Olá pessoa (ou :robot:) :wave:;
 
 ## Projetos :file_folder::
 
-![cr0d github stats](https://github-readme-stats.vercel.app/api?username=gustavocrod&show_icons=true&theme=synthwave)
+![cr0d github stats](https://github-readme-stats.vercel.app/api?username=gustavocrod)
 
 O repositório: Não clicke [aqui](https://github.com/gustavocrod/Data-Science) :trollface:
 
