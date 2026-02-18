@@ -24,7 +24,7 @@ Atualmente sou Senior Data Engineer no iFood. Trabalho com pySpark, em ambiente 
 
 ## Projetos :file_folder::
 
-![cr0d github stats](https://pixel-profile.vercel.app/api/github-stats?username=gustavocrod&screen_effect=true&theme=rainbow)
+//![cr0d github stats](https://pixel-profile.vercel.app/api/github-stats?username=gustavocrod&screen_effect=true&theme=rainbow)
 
 O repositório: Não clicke [aqui](https://github.com/gustavocrod/Data-Science) :trollface:
 
