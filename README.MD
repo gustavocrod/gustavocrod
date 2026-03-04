@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=009C13&center=true&width=435&lines=Data+Engineer;Analytics+Engineer;Data+Science;Python%2C+SQL%2C+Spark%2C+Databricks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=009C13&center=true&vCenter=true&width=435&lines=WELCOME!!!;Data+Engineer;Analytics+Engineer;Data+Science%2C+Data+Governance%2C+Data+Modelling;Python%2C+SQL%2C+Spark%2C+Databricks)](https://git.io/typing-svg)
 
 # **Gustavo "cr0d" Rodrigues**
 ### **Senior Data Engineer | Python & SQL Spark | Databricks**
